@@ -1,0 +1,57 @@
+.body1{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.body1 a{
+    margin-right: 10px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+}
+.gambar{
+    width: 300px;
+
+}
+.bulet{
+    background: red;
+    width: 30px;
+    height: 30px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.input{
+    width: 580px;
+    height: 40px;
+    border-radius: 30px;
+    padding-left: 30px;
+}
+.btn-grup{
+    margin-top: 16px;
+}
+.offer{
+    display: flex;
+    align-items: center;
+}
+a{
+    margin-left: 10px;
+}
+.hdr-idn{
+    background-color: black;
+}
+.idn{
+    color: white;
+}
+.bawah{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+}
